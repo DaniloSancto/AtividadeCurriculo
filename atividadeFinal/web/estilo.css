@@ -13,3 +13,18 @@ img{
     width: 75px;
     height: 100px;
 }
+
+ul{
+    margin-left: 20px;
+}
+
+h2{
+    margin: 20px;
+}
+p{
+    margin-left: 50px;
+}
+
+nav{
+    margin-bottom: 50px; 
+}
